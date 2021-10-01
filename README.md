@@ -9,27 +9,28 @@
 - Competitive Programmer
 - 2⭐ Coder at CodeChef
 - Loves to Code💛💫
-- Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/jatin-oza-874783217/) !
+- Apart from this I love to play 🏏,♟
+- Want to connect with me ? Just drop a **Hi** 👋 [Here](https://www.linkedin.com/in/jatin-oza-874783217/) !
 
 ![Profile views](https://gpvc.arturio.dev/jatin-code21)
 
 [![Badge](https://cp-logo.vercel.app/codechef/jatin_2125)](https://www.codechef.com/users/jatin_2125)
 
 ## Skills ⚒
-![image](https://img.shields.io/badge/C-0081CB?style=for-the-badge&logo&logoColor=white)
+![image](https://img.shields.io/badge/C-0081CB?style=for-the-badge&logo=c&logoColor=white)
 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![image](https://img.shields.io/badge/PYTHON-20232A?style=for-the-badge&logo&logoColor=61DAFB)
+![image](https://img.shields.io/badge/-PYTHON-yellow?style=for-the-badge&logo=python)
 
-![image](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html&logoColor=orange)
+![image](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 
-![image](https://img.shields.io/badge/-CSS-blue)
+![image](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---                                                                                                                                                     
-|<img src="https://github-readme-stats.vercel.app/api?username=jatin-code21&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21"/>|
+|<img  src="https://github-readme-stats.vercel.app/api?username=jatin-code21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jatin's Github Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21"/>|
 |---|---|
 ---
 

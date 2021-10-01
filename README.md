@@ -8,10 +8,12 @@
 - Pursuing B.E. In Computer Engineering at Dr. DY Patil College of Engineering, Pune 👨‍💻
 - Competitive Programmer
 - 2⭐ Coder at CodeChef
-- Loves to Code
+- Loves to Code💛💫
 - Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/jatin-oza-874783217/) !
 
 ![Profile views](https://gpvc.arturio.dev/jatin-code21)
+
+[![Badge](https://cp-logo.vercel.app/codechef/jatin_2125)](https://www.codechef.com/users/jatin_2125)
 
 ## Skills ⚒
 ![image](https://img.shields.io/badge/C-0081CB?style=for-the-badge&logo&logoColor=white)
@@ -26,13 +28,18 @@
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jatin-code21&&show_icons=true&count_private=true&include_all_commits=true"/>
+---                                                                                                                                                     
+|<img src="https://github-readme-stats.vercel.app/api?username=jatin-code21&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21"/>|
+|---|---|
+---
 
 ## Most Used Languages 💻
 <div align='center'>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-code21)](https://github.com/jatin-code21)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-code21&layout=compact&theme=midnight-purple)](https://github.com/jatin-code21)
+
+ ---
+ 
 ## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 
@@ -65,5 +72,7 @@
 
 </div>
 
-
+---
 Leave a ⭐ from [Here](https://github.com/jatin-code21/jatin-code21) if you like 😁
+
+

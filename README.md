@@ -7,7 +7,7 @@
 
 - Pursuing B.E. In Computer Engineering at Dr. DY Patil College of Engineering, Pune 👨‍💻
 - Competitive Programmer
-- 2⭐ Coder at CodeChef
+- 3⭐ Coder at CodeChef
 - Loves to Code💛💫
 - Apart from this I love to play 🏏,♟
 - Want to connect with me ? Just drop a **Hi** 👋 [Here](https://www.linkedin.com/in/jatin-oza-874783217/) !

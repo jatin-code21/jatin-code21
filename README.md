@@ -9,6 +9,7 @@
 - Competitive Programmer
 - 3⭐ Coder at CodeChef
 - Loves to Code💛💫
+- Exploring Front End Develpment💻✨
 - Apart from this I love to play 🏏,♟
 - Want to connect with me ? Just drop a **Hi** 👋 [Here](https://www.linkedin.com/in/jatin-oza-874783217/) !
 

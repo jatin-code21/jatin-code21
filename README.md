@@ -18,17 +18,14 @@
 [![Badge](https://cp-logo.vercel.app/codechef/jatin_2125)](https://www.codechef.com/users/jatin_2125)
 
 ## Skills ⚒
-![image](https://img.shields.io/badge/C-0081CB?style=for-the-badge&logo=c&logoColor=white)
-
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![image](https://img.shields.io/badge/-PYTHON-yellow?style=for-the-badge&logo=python)
-
-![image](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-
-![image](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="left">
+    <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</p>
 
 ---                                                                                                                                                     
 |<img  src="https://github-readme-stats.vercel.app/api?username=jatin-code21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jatin's Github Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21"/>|

@@ -1,5 +1,5 @@
 
-### Hello Jatin Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, Jatin Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Jatin Oza](https://github.com/jatin-code21/jatin-code21/blob/main/banner%20image.png)
 

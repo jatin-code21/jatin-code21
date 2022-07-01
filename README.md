@@ -28,8 +28,12 @@
 </p>
 
 ---                                                                                                                                                     
-|<img  src="https://github-readme-stats.vercel.app/api?username=jatin-code21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jatin's Github Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21"/>|
-|---|---|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=impratikspatil&count_private=true&show_icons=true&theme=radical" />
+</a><a href="https://github.com/anuraghazra/convoychat">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21&theme=radical&date_format=M%20j%5B%2C%20Y%5D&"/>
+</a>
+
 ---
 
 ## Most Used Languages 💻

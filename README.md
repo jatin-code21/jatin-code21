@@ -29,7 +29,7 @@
 
 ---                                                                                                                                                     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=impratikspatil&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=jatin-code21&count_private=true&show_icons=true&theme=radical" />
 </a><a href="https://github.com/anuraghazra/convoychat">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21&theme=radical&date_format=M%20j%5B%2C%20Y%5D&"/>
 </a>

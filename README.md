@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 <div align="center">
-  <img src="https://github.com/jatin-code21/jatin-code21/blob/main/jatin-github.png"/>
+  <img src="https://github.com/jatin-code21/jatin-code21/blob/main/Git-Banner.svg"/>
 </div>
 
 ---

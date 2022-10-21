@@ -66,6 +66,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-code21&theme=radical&date_format=M%20j%5B%2C%20Y%5D&"/>
 </a>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jatin-code21&theme=react-dark&hide_border=true&area=true)
+
+
 ## Most Used Languages 💻
 <div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
